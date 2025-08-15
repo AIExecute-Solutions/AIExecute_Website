@@ -21,11 +21,11 @@ You need to have [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.c
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/maheshpatil369/aiexecute-official-web.git](https://github.com/AIExecute-Solutions/AIExecute-Website.git)
+    git clone (https://github.com/AIExecute-Solutions/AIExecute_Website.git)
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd aiexecute-official-web
+    cd AIExecute_Website
     ```
 3.  **Install the dependencies:**
     ```sh
